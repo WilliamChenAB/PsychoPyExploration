@@ -1,0 +1,109 @@
+9.5700 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024A0C410B80>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024A0C410B20>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024A0C410850>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000024A12D08160>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.5701 	EXP 	window1: mouseVisible = True
+9.5701 	EXP 	window1: backgroundImage = ''
+9.5701 	EXP 	window1: backgroundFit = 'none'
+9.5702 	EXP 	window1: mouseVisible = False
+9.5702 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+9.5702 	EXP 	window1: recordFrameIntervals = False
+9.5972 	EXP 	window1: recordFrameIntervals = True
+9.6057 	WARNING 	t of last frame was 5.82ms (=1/171)
+9.6245 	WARNING 	t of last frame was 5.09ms (=1/196)
+9.6363 	EXP 	Screen (0) actual frame rate measured at 361.91Hz
+9.6363 	EXP 	window1: recordFrameIntervals = False
+11.5187 	EXP 	Created BaselineSelfReportText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='BaselineSelfReportText', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='How are you feeling today?', units='height', win=Window(...), wrapWidth=1)
+11.5252 	EXP 	window1: mouseVisible = True
+11.6534 	EXP 	Created BaselineSlider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-1, fillColor=None, flip=False, font='Open Sans', granularity=0.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=('Calm', 'Agitated'), lineColor=None, markerColor=None, name='BaselineSlider', opacity=None, ori=0.0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=None, style='rating', styleTweaks=[], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+11.7333 	EXP 	window1: mouseVisible = True
+11.7615 	EXP 	window1: mouseVisible = True
+11.7690 	EXP 	Created ReadyCheckText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='ReadyCheckText', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+11.7951 	EXP 	Created StimuliImage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='SPINlogo.png', interpolate=True, mask=None, maskParams=None, name='StimuliImage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=256.0, units='height', win=Window(...))
+11.7962 	EXP 	Created StimuliText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='StimuliText', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+11.8039 	EXP 	Created TaskText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='TaskText', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='Complete The Task', units='height', win=Window(...), wrapWidth=1)
+11.8170 	EXP 	window1: mouseVisible = True
+11.8307 	EXP 	window1: mouseVisible = True
+11.8341 	EXP 	window1: mouseVisible = True
+11.8823 	EXP 	Created SelfReportSlider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-1, fillColor=None, flip=False, font='Open Sans', granularity=0.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=('Calm', 'Agitated'), lineColor=None, markerColor=None, name='SelfReportSlider', opacity=None, ori=0.0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=None, style='rating', styleTweaks=[], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+11.8859 	EXP 	Created SelfReportText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='SelfReportText', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='How are you feeling?', units='height', win=Window(...), wrapWidth=1)
+11.8873 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=0.5, name='polygon', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+11.8945 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='End Of Experiment\n', units='height', win=Window(...), wrapWidth=1)
+11.9124 	EXP 	BaselineSlider: autoLog = True
+11.9124 	EXP 	BaselineSlider: markerPos = None
+11.9124 	EXP 	BaselineSlider: styleTweaks = []
+11.9124 	EXP 	BaselineSlider: styleTweaks = []
+11.9124 	EXP 	BaselineSlider: styleTweaks = []
+11.9124 	EXP 	BaselineSlider: styleTweaks = []
+11.9124 	EXP 	BaselineSlider: contrast = 1.0
+11.9124 	EXP 	BaselineSlider: autoLog = True
+11.9124 	EXP 	SelfReportSlider: autoLog = True
+11.9124 	EXP 	SelfReportSlider: markerPos = None
+11.9124 	EXP 	SelfReportSlider: styleTweaks = []
+11.9124 	EXP 	SelfReportSlider: styleTweaks = []
+11.9124 	EXP 	SelfReportSlider: styleTweaks = []
+11.9124 	EXP 	SelfReportSlider: styleTweaks = []
+11.9124 	EXP 	SelfReportSlider: contrast = 1.0
+11.9124 	EXP 	SelfReportSlider: autoLog = True
+11.9124 	EXP 	BaselineSlider: markerPos = None
+11.9124 	EXP 	BaselineSlider: markerPos = None
+11.9124 	EXP 	BaselineSelfReportText: autoDraw = True
+11.9124 	EXP 	BaselineSlider: autoDraw = True
+12.2111 	DATA 	Mouse: Left button down, pos=(996,567)
+12.2259 	EXP 	BaselineSlider: markerPos = 3.1333333333333333
+12.2320 	EXP 	BaselineSlider: markerPos = 3.1333333333333333
+12.2383 	EXP 	BaselineSlider: markerPos = 3.1333333333333333
+12.2447 	EXP 	BaselineSlider: markerPos = 3.1333333333333333
+12.2508 	EXP 	BaselineSlider: markerPos = 3.137037037037037
+12.2558 	EXP 	BaselineSlider: markerPos = 3.137037037037037
+12.2615 	EXP 	BaselineSlider: markerPos = 3.148148148148148
+12.2674 	EXP 	BaselineSlider: markerPos = 3.148148148148148
+12.2723 	EXP 	BaselineSlider: markerPos = 3.1666666666666665
+12.2781 	EXP 	BaselineSlider: markerPos = 3.196296296296296
+12.2850 	EXP 	BaselineSlider: markerPos = 3.2333333333333334
+12.2920 	EXP 	BaselineSlider: markerPos = 3.2333333333333334
+12.2992 	EXP 	BaselineSlider: markerPos = 3.274074074074074
+12.3047 	EXP 	BaselineSlider: markerPos = 3.314814814814815
+12.3096 	EXP 	BaselineSlider: markerPos = 3.359259259259259
+12.3181 	EXP 	BaselineSlider: markerPos = 3.359259259259259
+12.3234 	EXP 	BaselineSlider: markerPos = 3.4
+12.3300 	EXP 	BaselineSlider: markerPos = 3.4333333333333336
+12.3362 	EXP 	BaselineSlider: markerPos = 3.474074074074074
+12.3412 	EXP 	BaselineSlider: markerPos = 3.514814814814815
+12.3486 	EXP 	BaselineSlider: markerPos = 3.514814814814815
+12.3546 	EXP 	BaselineSlider: markerPos = 3.6037037037037036
+12.3603 	EXP 	BaselineSlider: markerPos = 3.6037037037037036
+12.3671 	EXP 	BaselineSlider: markerPos = 3.6444444444444444
+12.3733 	EXP 	BaselineSlider: markerPos = 3.677777777777778
+12.3796 	EXP 	BaselineSlider: markerPos = 3.714814814814815
+12.3856 	EXP 	BaselineSlider: markerPos = 3.7444444444444445
+12.3908 	DATA 	Mouse:  Left button up, pos=(1167,550)
+12.3920 	EXP 	BaselineSlider: markerPos = 3.7444444444444445
+12.3982 	EXP 	BaselineSlider: markerPos = 3.7444444444444445
+12.7509 	DATA 	Mouse: Left button down, pos=(1426,164)
+12.8217 	DATA 	Mouse:  Left button up, pos=(1426,164)
+13.0719 	DATA 	Mouse: Left button down, pos=(1451,124)
+13.0808 	EXP 	BaselineSelfReportText: autoDraw = False
+13.0808 	EXP 	BaselineSlider: autoDraw = False
+13.0808 	EXP 	ReadyCheckText: autoDraw = True
+13.1422 	DATA 	Mouse:  Left button up, pos=(1451,124)
+13.5196 	DATA 	Mouse: Left button down, pos=(1008,589)
+13.5757 	EXP 	Imported PsychoPyTest.xlsx as conditions, 3 conditions, 2 params
+13.5760 	EXP 	Created sequence: random, trialTypes=3, nReps=1, seed=None
+13.5762 	EXP 	New trial (rep=0, index=0): {'StimuliTextRandom': 'Stimuli Text 1', 'Example': 1}
+13.5868 	DATA 	Mouse:  Left button up, pos=(1008,589)
+13.5877 	EXP 	ReadyCheckText: autoDraw = False
+13.5877 	EXP 	StimuliText: height = 0.05
+13.5877 	EXP 	StimuliText: height = 0.05
+13.5877 	EXP 	StimuliText: height = 0.05
+13.5877 	EXP 	StimuliText: text = 'StimuliTextRandom\n$Example'
+13.5877 	EXP 	StimuliImage: autoDraw = True
+13.5877 	EXP 	StimuliText: autoDraw = True
+15.6926 	DATA 	Mouse: Left button down, pos=(1123,833)
+15.7659 	DATA 	Mouse:  Left button up, pos=(1123,833)
+16.1787 	DATA 	Mouse: Left button down, pos=(992,772)
+16.2657 	DATA 	Mouse:  Left button up, pos=(992,772)
+16.5268 	EXP 	StimuliImage: autoDraw = False
+16.5268 	EXP 	StimuliText: autoDraw = False
+16.5268 	EXP 	TaskText: autoDraw = True
+17.5299 	DATA 	Mouse: Left button down, pos=(1201,772)
+17.6152 	DATA 	Mouse:  Left button up, pos=(1201,773)
+17.6735 	DATA 	Keypress: escape
+18.4802 	EXP 	window1: mouseVisible = True

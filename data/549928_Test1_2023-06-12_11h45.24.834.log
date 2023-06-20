@@ -1,0 +1,43 @@
+4.7171 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+5.1205 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000178184FCAF0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000178184FCA90>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000178184FC7C0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001781F0E1160>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.1206 	EXP 	window1: mouseVisible = True
+5.1206 	EXP 	window1: backgroundImage = ''
+5.1206 	EXP 	window1: backgroundFit = 'none'
+5.1206 	EXP 	window1: mouseVisible = False
+5.1206 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.1206 	EXP 	window1: recordFrameIntervals = False
+5.1480 	EXP 	window1: recordFrameIntervals = True
+5.1786 	EXP 	Screen (0) actual frame rate measured at 361.15Hz
+5.1786 	EXP 	window1: recordFrameIntervals = False
+6.4996 	EXP 	Created BaselineSelfReportText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='BaselineSelfReportText', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='How are you feeling today?', units='height', win=Window(...), wrapWidth=1)
+6.5041 	EXP 	window1: mouseVisible = True
+6.5749 	EXP 	Created slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-1, fillColor=None, flip=False, font='Open Sans', granularity=0.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=('Calm', 'Agitated'), lineColor=None, markerColor=None, name='slider', opacity=None, ori=0.0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=None, style='rating', styleTweaks=[], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+6.6041 	EXP 	window1: mouseVisible = True
+6.6080 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='ReachedHere', units='height', win=Window(...), wrapWidth=1)
+6.6213 	EXP 	slider: autoLog = True
+6.6213 	EXP 	slider: markerPos = None
+6.6213 	EXP 	slider: styleTweaks = []
+6.6213 	EXP 	slider: styleTweaks = []
+6.6213 	EXP 	slider: styleTweaks = []
+6.6213 	EXP 	slider: styleTweaks = []
+6.6213 	EXP 	slider: contrast = 1.0
+6.6213 	EXP 	slider: autoLog = True
+6.6213 	EXP 	slider: markerPos = None
+6.6213 	EXP 	slider: markerPos = None
+6.6213 	EXP 	BaselineSelfReportText: autoDraw = True
+6.6213 	EXP 	slider: autoDraw = True
+7.7269 	DATA 	Mouse: Left button down, pos=(1385,102)
+7.7307 	EXP 	BaselineSelfReportText: autoDraw = False
+7.7307 	EXP 	slider: autoDraw = False
+7.7307 	EXP 	EndText: autoDraw = True
+7.8127 	DATA 	Mouse:  Left button up, pos=(1385,102)
+8.7014 	DATA 	Mouse: Left button down, pos=(970,372)
+8.7849 	DATA 	Mouse:  Left button up, pos=(970,372)
+9.2041 	DATA 	Mouse: Left button down, pos=(1025,541)
+9.2960 	DATA 	Mouse:  Left button up, pos=(1025,548)
+9.3819 	DATA 	Mouse: Left button down, pos=(1025,548)
+9.4596 	DATA 	Mouse:  Left button up, pos=(1025,548)
+9.6097 	DATA 	Mouse: Left button down, pos=(1025,548)
+9.7125 	DATA 	Mouse:  Left button up, pos=(1025,548)
+9.9852 	DATA 	Keypress: escape
+10.4333 	EXP 	window1: mouseVisible = True

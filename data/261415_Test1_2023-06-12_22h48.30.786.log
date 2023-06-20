@@ -1,0 +1,19 @@
+5.7045 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+6.1104 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000250AFAF1BE0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000250AFAF1B80>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000250AFAF18B0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000250B676B250>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.1104 	EXP 	window1: mouseVisible = True
+6.1104 	EXP 	window1: backgroundImage = ''
+6.1104 	EXP 	window1: backgroundFit = 'none'
+6.1105 	EXP 	window1: mouseVisible = False
+6.1105 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.1105 	EXP 	window1: recordFrameIntervals = False
+6.1382 	EXP 	window1: recordFrameIntervals = True
+6.1686 	EXP 	Screen (0) actual frame rate measured at 358.70Hz
+6.1686 	EXP 	window1: recordFrameIntervals = False
+7.5179 	EXP 	Created BaselineSelfReportText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='BaselineSelfReportText', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='How are you feeling today?', units='height', win=Window(...), wrapWidth=1)
+7.5231 	EXP 	window1: mouseVisible = True
+7.5950 	EXP 	Created BaselineSlider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-1, fillColor=None, flip=False, font='Open Sans', granularity=0.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=('Calm', 'Agitated'), lineColor=None, markerColor=None, name='BaselineSlider', opacity=None, ori=0.0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=None, style='rating', styleTweaks=[], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+7.6277 	EXP 	window1: mouseVisible = True
+7.6439 	EXP 	window1: mouseVisible = True
+7.6497 	EXP 	Created ReadyCheckText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='ReadyCheckText', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.6581 	EXP 	Created StimuliImage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='SPINlogo.png', interpolate=True, mask=None, maskParams=None, name='StimuliImage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+7.6991 	EXP 	window1: mouseVisible = True

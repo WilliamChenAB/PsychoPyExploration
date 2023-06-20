@@ -1,0 +1,78 @@
+5.1421 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+6.2183 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F9A48EAB50>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F9A48EAAF0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F9A48EA820>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001F9A9F78190>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.2184 	EXP 	window1: mouseVisible = True
+6.2184 	EXP 	window1: backgroundImage = ''
+6.2184 	EXP 	window1: backgroundFit = 'none'
+6.2185 	EXP 	window1: mouseVisible = False
+6.2185 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.2185 	EXP 	window1: recordFrameIntervals = False
+6.2459 	EXP 	window1: recordFrameIntervals = True
+6.2766 	EXP 	Screen (0) actual frame rate measured at 358.95Hz
+6.2766 	EXP 	window1: recordFrameIntervals = False
+7.9892 	EXP 	Created BaselineSelfReportText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='BaselineSelfReportText', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='How are you feeling today?', units='height', win=Window(...), wrapWidth=1)
+7.9958 	EXP 	window1: mouseVisible = True
+8.0966 	EXP 	Created slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-1, fillColor=None, flip=False, font='Open Sans', granularity=0.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=('Calm', 'Agitated'), lineColor=None, markerColor=None, name='slider', opacity=None, ori=0.0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=None, style='rating', styleTweaks=[], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+8.1340 	EXP 	window1: mouseVisible = True
+8.1550 	EXP 	window1: mouseVisible = True
+8.1597 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='ReachedHere', units='height', win=Window(...), wrapWidth=1)
+8.2067 	EXP 	slider: autoLog = True
+8.2067 	EXP 	slider: markerPos = None
+8.2067 	EXP 	slider: styleTweaks = []
+8.2067 	EXP 	slider: styleTweaks = []
+8.2067 	EXP 	slider: styleTweaks = []
+8.2067 	EXP 	slider: styleTweaks = []
+8.2067 	EXP 	slider: contrast = 1.0
+8.2067 	EXP 	slider: autoLog = True
+8.2067 	EXP 	slider: markerPos = None
+8.2067 	EXP 	slider: markerPos = None
+8.2067 	EXP 	BaselineSelfReportText: autoDraw = True
+8.2067 	EXP 	slider: autoDraw = True
+12.2796 	DATA 	Mouse: Left button down, pos=(955,530)
+12.2843 	EXP 	slider: markerPos = 2.9814814814814814
+12.2889 	EXP 	slider: markerPos = 2.9814814814814814
+12.2930 	EXP 	slider: markerPos = 2.9814814814814814
+12.2974 	EXP 	slider: markerPos = 2.9814814814814814
+12.3019 	EXP 	slider: markerPos = 2.9814814814814814
+12.3063 	EXP 	slider: markerPos = 2.9814814814814814
+12.3109 	EXP 	slider: markerPos = 2.9814814814814814
+12.3153 	EXP 	slider: markerPos = 2.9814814814814814
+12.3197 	EXP 	slider: markerPos = 2.9814814814814814
+12.3241 	EXP 	slider: markerPos = 2.9814814814814814
+12.3285 	EXP 	slider: markerPos = 2.9814814814814814
+12.3330 	EXP 	slider: markerPos = 2.9814814814814814
+12.3371 	EXP 	slider: markerPos = 2.9814814814814814
+12.3412 	EXP 	slider: markerPos = 2.9814814814814814
+12.3455 	EXP 	slider: markerPos = 2.9814814814814814
+12.3497 	EXP 	slider: markerPos = 2.9814814814814814
+12.3539 	EXP 	slider: markerPos = 2.9814814814814814
+12.3589 	EXP 	slider: markerPos = 2.9814814814814814
+12.3632 	EXP 	slider: markerPos = 2.9814814814814814
+12.3674 	EXP 	slider: markerPos = 2.9814814814814814
+12.3718 	EXP 	slider: markerPos = 2.9814814814814814
+12.3760 	EXP 	slider: markerPos = 2.9814814814814814
+12.3803 	EXP 	slider: markerPos = 2.9814814814814814
+12.3846 	EXP 	slider: markerPos = 2.9814814814814814
+12.3891 	EXP 	slider: markerPos = 2.9814814814814814
+12.3935 	EXP 	slider: markerPos = 2.9814814814814814
+12.3978 	EXP 	slider: markerPos = 2.9814814814814814
+12.4023 	EXP 	slider: markerPos = 2.9814814814814814
+12.4066 	EXP 	slider: markerPos = 2.9814814814814814
+12.4109 	EXP 	slider: markerPos = 2.9814814814814814
+12.4151 	EXP 	slider: markerPos = 2.9814814814814814
+12.4194 	EXP 	slider: markerPos = 2.9814814814814814
+12.4239 	EXP 	slider: markerPos = 2.9814814814814814
+12.4283 	EXP 	slider: markerPos = 2.9814814814814814
+12.4326 	EXP 	slider: markerPos = 2.9814814814814814
+12.4369 	EXP 	slider: markerPos = 2.9814814814814814
+12.4406 	DATA 	Mouse:  Left button up, pos=(955,530)
+12.4415 	EXP 	slider: markerPos = 2.9814814814814814
+12.4457 	EXP 	slider: markerPos = 2.9814814814814814
+12.8307 	DATA 	Mouse: Left button down, pos=(1526,122)
+12.8348 	EXP 	BaselineSelfReportText: autoDraw = False
+12.8348 	EXP 	slider: autoDraw = False
+12.9098 	DATA 	Mouse:  Left button up, pos=(1526,122)
+14.1904 	DATA 	Mouse: Left button down, pos=(971,534)
+14.1929 	EXP 	EndText: autoDraw = True
+14.2662 	DATA 	Mouse:  Left button up, pos=(971,534)
+14.7525 	DATA 	Keypress: escape
+15.3856 	EXP 	window1: mouseVisible = True
